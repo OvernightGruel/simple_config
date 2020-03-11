@@ -1,0 +1,13 @@
+ETCD_HOST=1.1.1.1
+ETCD_PORT=80
+ETCD_PASSWD=0hyxdryq_CZ
+ETCD_USER=test
+
+HTTP_SERVER=http://test.com
+
+DEBUG=true
+
+ALLOWED_HOSTS=*.test.com, api.test.com,  *
+
+USER_NAME=root
+
